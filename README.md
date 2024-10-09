@@ -1,15 +1,5 @@
 # COVID-19 Chest X-ray Classification
-This project aims to classify chest X-ray images into three categories: COVID-19, pneumonia, and normal. The approach utilizes image processing, machine learning, and evaluation techniques to build and assess a classification model. This project implements a machine learning pipeline to classify chest X-ray images. The classification is performed using different models, including Decision Tree, K-Nearest Neighbors (KNN), and Support Vector Machine (SVM) with Principal Component Analysis (PCA) for feature extraction.
-
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Preprocessing](#Preprocessing)
-- [Visualization](#Visualization)
-- [Data Splitting](#Data Splitting)
-- [Model Development](#Model Development)
-
+This project aims to classify chest X-ray images into three categories: COVID-19, pneumonia, and normal. The approach utilizes image processing, machine learning, and evaluation techniques to build and assess a classification model. This project implements a machine learning pipeline to classify chest X-ray images. The classification is performed using different models, including Decision Tree, K-Nearest Neighbors (KNN), and Support Vector Machine (SVM) with Principal Component Analysis (PCA) for feature extraction
 
 ## Project Description
 
