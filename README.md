@@ -5,11 +5,11 @@ This project aims to classify chest X-ray images into three categories: COVID-19
 
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Methods](#methods)
-- [Results](#results)
-- [License](#license)
+- [Preprocessing](#Preprocessing)
+- [Visualization](#Visualization)
+- [Data Splitting](#Data Splitting)
+- [Model Development](#Model Development)
+
 
 ## Project Description
 
