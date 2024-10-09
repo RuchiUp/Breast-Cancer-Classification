@@ -13,7 +13,8 @@ This project aims to classify chest X-ray images into three categories: COVID-19
 
 ## Project Description
 
-The project aims to classify chest X-ray images to aid in the diagnosis of COVID-19. It utilizes image preprocessing techniques, various machine learning algorithms, and performance evaluation metrics to ensure accurate classification.
+The project aims to classify chest X-ray images to aid in the diagnosis of COVID-19. It utilizes image preprocessing techniques, 
+various machine learning algorithms, and performance evaluation metrics to ensure accurate classification.
 
 ## Installation
 
@@ -44,7 +45,10 @@ dataset/
     ├── image1.jpg
     ├── image2.jpg
     └── ...
-## Preprocessing: Images are resized to 224x224 pixels, converted to grayscale, and normalized to prepare them for analysis. DataFrames are created to organize the images and their corresponding labels.
+
+
+## Preprocessing: Images are resized to 224x224 pixels, converted to grayscale, and normalized to prepare them for analysis.
+DataFrames are created to organize the images and their corresponding labels.
 
 ## Visualization: Sample images are displayed to verify the correctness of data loading and preprocessing.
 
@@ -56,5 +60,6 @@ A Decision Tree Classifier is initially trained and evaluated for accuracy using
 A K-Nearest Neighbors (KNN) classifier is implemented to compare performance.
 Principal Component Analysis (PCA) is employed for dimensionality reduction, allowing for better model efficiency and performance.
 A Support Vector Machine (SVM) model is trained with hyperparameter tuning using GridSearchCV for optimal results.
-Evaluation and Visualization: The models are assessed using various metrics, and PCA components, along with explained variance ratios, are visualized to understand the data distribution and model performance.
+Evaluation and Visualization: The models are assessed using various metrics, and PCA components,
+along with explained variance ratios, are visualized to understand the data distribution and model performance.
 
