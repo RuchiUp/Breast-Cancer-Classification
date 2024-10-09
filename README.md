@@ -45,7 +45,7 @@ dataset/
     ├── image1.jpg
     ├── image2.jpg
     └── ...
-
+'''
 
 ## Preprocessing: Images are resized to 224x224 pixels, converted to grayscale, and normalized to prepare them for analysis.
 DataFrames are created to organize the images and their corresponding labels.
